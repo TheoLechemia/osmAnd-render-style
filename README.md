@@ -1,0 +1,1 @@
+# osmAnd-render-style
